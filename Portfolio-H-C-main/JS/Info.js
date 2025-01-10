@@ -40,7 +40,7 @@ function redirectToLinkedIn() {
     window.open('https://www.linkedin.com/in/sai-sudhakar/', '_blank');
 }
 function redirectToInstagram() {
-    window.open('https://www.instagram.com/crazy_photography_22/', '_blank');
+    window.open('https://www.instagram.com/saisudhakarbhaskaruni/', '_blank');
 }
 
 // skills.js.....
